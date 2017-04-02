@@ -1,0 +1,56 @@
+#BYBimage {
+            border-radius: 95px;
+            height:150px;
+            width:150px;
+            float:left;
+			border-style:solid;
+			border-width:2px;
+			border-color:white;
+}
+
+#bhctitle {
+            float:left;
+            padding-bottom: 30px;
+            margin-left: 20px;
+            font-family: 'Aguafina Script', cursive;
+            font-size: 75px;
+            color:white;
+}
+
+#photobanner {
+            clear:both;
+}
+
+
+#large-banner {
+            margin-left: 30%;
+            border-bottom-width: 1px;
+            border-color:white;
+			clear:both;
+			width:100%
+}
+
+#text-container {
+            width:60%;
+            height:350px;
+            color:white;
+            border-width:2px;
+            border-color:white;
+			border-style:solid;
+            margin-bottom: 10px;
+			margin-top:10px;
+			margin-right:20%;
+			margin-left:20%;
+			padding:12px;
+			border-radius:10px;
+}
+
+body {
+    background-color: blue;
+}
+
+.slidepanel {
+    width:360px;
+    height:230px;
+    
+}
